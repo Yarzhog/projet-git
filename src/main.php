@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+echo "Ceci est la ligne 1";
+echo "Ceci est la ligne 2";
+
+>>>>>>> feat-dev1
 echo "Ceci est du texte";
 
 echo "Ceci est l'avant dernière ligne";

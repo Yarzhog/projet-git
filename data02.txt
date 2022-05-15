@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 /Info complémentaire 1/
 /Info complémentaire 2/
+=======
+/Info supplémentaire 1/
+/Info supplémentaire 2/
+>>>>>>> feat-dev1
 
 *Voici le fichier data02*
 
