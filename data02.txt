@@ -1,3 +1,6 @@
+/Info supplémentaire 1/
+/Info supplémentaire 2/
+
 *Voici le fichier data02*
 
 -> Modification n°1
